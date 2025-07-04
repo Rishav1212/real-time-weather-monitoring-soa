@@ -20,9 +20,7 @@ This is a simple real-time weather monitoring application built using **Service-
 weather-app/
 ├── app.py                   # Main Flask application
 ├── templates/
-│   └── weather.html         # HTML UI (Bootstrap styled)
-└── static/
-    └── style.css            # Optional for custom CSS
+    └── weather.html         # HTML UI (Bootstrap styled)
 ```
 
 ---
